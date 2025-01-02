@@ -36,7 +36,10 @@ for i in range(9):
     s = s - 10
     t.setheading(s)
     t.forward(10)
-
+t.forward(30)    
+t.end_fill()
+t.up()
+t.color("black")
 
 t.setheading(270)
 t.forward(240)
