@@ -41,14 +41,7 @@ t.end_fill()
 t.up()
 t.color("black")
 
-t.setheading(270)
-t.forward(240)
-t.setheading(0)
-t.down()
-t.color("red")
-t.fillcolor("#E50914")
-t.begin_fill()
-t.forward(30)
+
 t.setheading(90)
 t.forward(180)
 
