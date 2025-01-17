@@ -74,7 +74,4 @@ t.forward(180)
 t.end_fill()
 t.color("red")
 t.fillcolor("red")
-t.begin_fill()
-t.setheading(113)
-t.forward(195)
-t.setheading(0)
+
